@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="https://raw.githubusercontent.com/rokina/rokina/main/profile-summary-card-output/dracula/0-profile-details.svg">
+  <img src="https://raw.githubusercontent.com/rokina/rokina/main/profile-summary-card-output/dracula/0-profile-details.svg"><br>
   <img src="https://raw.githubusercontent.com/rokina/rokina/main/profile-summary-card-output/dracula/1-repos-per-language.svg">
   <img src="https://raw.githubusercontent.com/rokina/rokina/main/profile-summary-card-output/dracula/2-most-commit-language.svg">
   <img src="https://raw.githubusercontent.com/rokina/rokina/main/profile-summary-card-output/dracula/3-stats.svg">
