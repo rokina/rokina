@@ -8,3 +8,5 @@
   <img src="https://img.shields.io/github/last-commit/rokina/rokina/main?style=social">
   <img src="https://komarev.com/ghpvc/?username=rokina">
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokina)](https://github.com/anuraghazra/github-readme-stats)
